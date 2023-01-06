@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="../styles/addVideo.css">
+  <title>Agregar video</title>
+</head>
+<body>
+  <h1 class="title">Agregar un video</h1>
+  <h2 class="subtitle"><a href="../index.html">Regresar a la pagina</a></h2>
+  <form class="form">
+    <label for="name">titulo del video</label>
+    <input type="text" id="titulo">
+    <label for="canal">Canal</label>
+    <input type="text" id="canal">
+    <label for="info" >Informacion del video</label>
+    <input type="text" id="info">
+    <label for="categoria">Categoria del video</label>
+    <select name="" id="categoria">
+      <option value="">Seleccione una opcion</option>
+      <option value="juegos">Juegos</option>
+      <option value="documentales">Documentales</option>
+      <option value="noticias">Noticias</option>
+    </select>
+    <label for="miniatura">Ingrese la imagen</label>
+    <input type="url" id="miniatura">
+    <label for="link">Ingrese el Link del video</label>
+    <input type="url" id="link">
+
+    <button type="submit">Enviar</button>
+  </form>
+  <script src="../scripts/addVideo.js"></script>
+</body>
+</html>
