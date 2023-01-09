@@ -1,6 +1,6 @@
 export const videos = [{
   id: 1,
-  miniatura: "/sources/miniatura1.png",
+  miniatura: "./sources/miniatura1.png",
   titulo: "SKYRIM | 5 COSAS QUE NADIE USA (PERO DEBERÍA HACERLO)",
   canal: "El Gerber",
   info: "113,669 views - 25 dic",
@@ -8,7 +8,7 @@ export const videos = [{
   categoria: "juegos" 
 },{
   id: 2,
-  miniatura: "/sources/miniatura2.png",
+  miniatura: "./sources/miniatura2.png",
   titulo: "AMONG US con CHAT de VOZ xd",
   canal: "AQUISI",
   info: "280,879 views - 29 dic",
@@ -16,7 +16,7 @@ export const videos = [{
   categoria: "juegos"
 },{
   id: 3,
-  miniatura:"/sources/miniatura3.png" ,
+  miniatura:"./sources/miniatura3.png" ,
   titulo: "Super Mario Bros : La Saga en 1 Video",
   canal: "El Fedelobo",
   info: "7.2M views - hace 1 año",
@@ -24,7 +24,7 @@ export const videos = [{
   categoria: "juegos"
 },{
   id: 4,
-  miniatura:"/sources/miniatura4.png" ,
+  miniatura:"./sources/miniatura4.png" ,
   titulo: "NUEVA HISTORIA 😎 - Beyond: Two Souls ft. Masi #1",
   canal: "IlloJuan",
   info: "933,817 views - hace 1 año",
@@ -32,7 +32,7 @@ export const videos = [{
   categoria: "juegos"
 },{
   id: 5,
-  miniatura: "/sources/miniatura5.png" ,
+  miniatura: "./sources/miniatura5.png" ,
   titulo: "Bebé murió en un carro mientras sus padres estaban en un motel de Valledupar",
   canal: "Diario diginal LA RAZON.CO",
   info: "570 views hace 1 dia",
@@ -40,7 +40,7 @@ export const videos = [{
   categoria: "noticias"
 },{
   id: 6,
-  miniatura: "/sources/miniatura6.png",
+  miniatura: "./sources/miniatura6.png",
   titulo: "Ofrecen una recompensa de $20 millones para dar con los asesinos de un niño en Bogotá",
   canal: "Noticias Caracol",
   info: "30,441 views hace 1 dia",
@@ -48,7 +48,7 @@ export const videos = [{
   categoria: "noticias"
 },{
   id: 7,
-  miniatura: "/sources/miniatura7.png",
+  miniatura: "./sources/miniatura7.png",
   titulo: "Por falso operativo retiran a Coronel de la P0LlClA",
   canal: "NoticiasUnoColombia",
   info: "133,959 views hace 13 dias",
@@ -56,7 +56,7 @@ export const videos = [{
   categoria: "noticias"
 },{
   id: 8,
-  miniatura: "/sources/miniatura8.png",
+  miniatura: "./sources/miniatura8.png",
   titulo: "Los peores casos de C0RRVPCl0N del 2022 en la P0LlCl4",
   canal: "NoticiasUnoColombia",
   info: "123,783 views hace 3 dias",
@@ -64,7 +64,7 @@ export const videos = [{
   categoria: "noticias"
 },{
   id: 9,
-  miniatura: "/sources/miniatura9.png",
+  miniatura: "./sources/miniatura9.png",
   titulo: "Agujeros negros: el gran enigma del universo | Documental",
   canal: "Ring de Ideas",
   info: "2,508 hace 5 meses",
@@ -72,7 +72,7 @@ export const videos = [{
   categoria: "documentales",
 },{
   id: 10,
-  miniatura: "/sources/miniatura10.png",
+  miniatura: "./sources/miniatura10.png",
   titulo: "Viaje a los límites del Sistema Solar",
   canal: "Kosmos",
   info: "1.4M hace 1 mes",
@@ -80,7 +80,7 @@ export const videos = [{
   categoria: "documentales"
 },{
   id: 11,
-  miniatura: "/sources/miniatura11.png",
+  miniatura: "./sources/miniatura11.png",
   titulo: "ORIGIN - Spanish",
   canal: "Illustra Media",
   info: "1.6M hace 3 años",
@@ -88,7 +88,7 @@ export const videos = [{
   categoria: "documentales"
 },{
   id: 12,
-  miniatura: "/sources/miniatura12.png",
+  miniatura: "./sources/miniatura12.png",
   titulo: "HOME (ES)",
   canal: "homeprojectES",
   info: "25M hace 13 años",
@@ -96,7 +96,7 @@ export const videos = [{
   categoria: "documentales"
 },{
   id:13,
-  miniatura: "/sources/miniatura13.png",
+  miniatura: "./sources/miniatura13.png",
   titulo: "Venecia explicada",
   canal: "Manuel Bravo",
   info: "693,039 hace 3 meses",
@@ -104,7 +104,7 @@ export const videos = [{
   categoria: "documentales"
 },{
   id:14,
-  miniatura: "/sources/miniatura14.png",
+  miniatura: "./sources/miniatura14.png",
   titulo: "PUBG : RTX 4090 24GB ( 4K Ultra Graphics )",
   canal: "GTX 1050 Ti",
   info: "1.9M hace 2 meses",
@@ -112,7 +112,7 @@ export const videos = [{
   categoria: "juegos"
 },{
   id:15,
-  miniatura: "/sources/miniatura15.png",
+  miniatura: "./sources/miniatura15.png",
   titulo: "RTX 4090 | Minecraft 4K + Shaders + Textures",
   canal: "Minecraf",
   info: "1.7M hace 2 meses",
@@ -120,7 +120,7 @@ export const videos = [{
   categoria: "juegos"
 },{
   id:16,
-  miniatura: "/sources/miniatura16.png",
+  miniatura: "./sources/miniatura16.png",
   titulo: "El templo de Hatshepsut: ¿Cómo era?",
   canal: "Manuel Bravo",
   info: "121,546 hace 10 meses",
@@ -128,7 +128,7 @@ export const videos = [{
   categoria: "documentales"
 },{
   id:17,
-  miniatura: "/sources/miniatura17.png",
+  miniatura: "./sources/miniatura17.png",
   titulo: "Forjar una katana de damasco de cobre",
   canal: "Tyrell Knifeworks",
   info: "6.6M hace 4 meses",
@@ -136,7 +136,7 @@ export const videos = [{
   categoria: "documentales"
 },{
   id:18,
-  miniatura: "/sources/miniatura18.png",
+  miniatura: "./sources/miniatura18.png",
   titulo: "Gobierno Petro suspende el cese al fuego con el ELN",
   canal: "RNC RADIO",
   info: "965 hace 12 horas",
@@ -144,7 +144,7 @@ export const videos = [{
   categoria: "noticias"
 },{
   id:19,
-  miniatura: "/sources/miniatura19.png",
+  miniatura: "./sources/miniatura19.png",
   titulo: "Asesinan a joven en TransMilenio | El Tiempo",
   canal: "El Tiempo",
   info: "1,679 hace 2 dias",
@@ -152,7 +152,7 @@ export const videos = [{
   categoria: "noticias"
 },{
   id:20,
-  miniatura: "/sources/miniatura20.png",
+  miniatura: "./sources/miniatura20.png",
   titulo: "Niño, asesinado por ataque sicarial a su familia | El Tiempo",
   canal: "El Tiempo",
   info: "6,373 hace 2 dias",
@@ -160,7 +160,7 @@ export const videos = [{
   categoria: "noticias"
 },{
   id:21,
-  miniatura: "/sources/miniatura21.png",
+  miniatura: "./sources/miniatura21.png",
   titulo: "La Noche En Que Michael Jordan Voló",
   canal: "Farwell Investor",
   info: "5.4M hace 1 año",
@@ -168,7 +168,7 @@ export const videos = [{
   categoria: "documentales"
 },{
   id:22,
-  miniatura: "/sources/miniatura22.png",
+  miniatura: "./sources/miniatura22.png",
   titulo: "Las 100 mejores jugadas de la década",
   canal: "NBA México",
   info: "547,381 hace 2 años",
@@ -176,7 +176,7 @@ export const videos = [{
   categoria: "documentales"
 },{
   id:23,
-  miniatura: "/sources/miniatura23.png",
+  miniatura: "./sources/miniatura23.png",
   titulo: "Jugando GTA 5 Sin Romper Ninguna Ley",
   canal: "Vista Gamer",
   info: "12M hace 7 meses",
@@ -184,7 +184,7 @@ export const videos = [{
   categoria: "juegos"
 },{
   id:24,
-  miniatura: "/sources/miniatura24.png",
+  miniatura: "./sources/miniatura24.png",
   titulo: "¡Minando 1.000.000 de Bloques!",
   canal: "MrBeast",
   info: "17M hace 9 meses",
@@ -192,7 +192,7 @@ export const videos = [{
   categoria: "juegos"
 },{
   id:25,
-  miniatura: "/sources/miniatura25.png",
+  miniatura: "./sources/miniatura25.png",
   titulo: "¡GOL DE JULIÁN ÁVAREZ Y BAILE CIUDADANO ANTE LOS BLUES! ",
   canal: "ESPN Fans",
   info: "1.9M hace 23 Horas",
@@ -200,7 +200,7 @@ export const videos = [{
   categoria: "noticias"
 },{
   id:26,
-  miniatura: "/sources/miniatura26.png",
+  miniatura: "./sources/miniatura26.png",
   titulo: "0% Deportividad en el Fútbol",
   canal: "JackieMT",
   info: "16M hace 2 meses",
@@ -208,7 +208,7 @@ export const videos = [{
   categoria: "noticias"
 },{
   id:27,
-  miniatura: "/sources/miniatura27.png",
+  miniatura: "./sources/miniatura27.png",
   titulo: "Peleas de Fútbol Épicas 2020",
   canal: "Teo CRi",
   info: "18M hace 2 años",
@@ -216,7 +216,7 @@ export const videos = [{
   categoria: "noticias"
 },{
   id:28,
-  miniatura: "/sources/miniatura28.png",
+  miniatura: "./sources/miniatura28.png",
   titulo: "¡Top 10 PELEAS en la Televisión ARGENTINA!",
   canal: "WatchMojo Español",
   info: "5.5M hace 4 años",
@@ -224,7 +224,7 @@ export const videos = [{
   categoria: "noticias"
 },{
   id:29,
-  miniatura: "/sources/miniatura29.png",
+  miniatura: "./sources/miniatura29.png",
   titulo: "Las dos Guerras Mundiales",
   canal: "Academia Play",
   info: "2.5M hace 10 meses",
@@ -232,7 +232,7 @@ export const videos = [{
   categoria: "documentales"
 },{
   id:30,
-  miniatura: "/sources/miniatura30.png",
+  miniatura: "./sources/miniatura30.png",
   titulo: "Así se hizo Nueva York",
   canal: "Academia Play",
   info: "1.4M hace 1 año",

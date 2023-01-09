@@ -9,7 +9,7 @@ const printVideos = (listVideos, container) => {
     article.classList.add('main__card');
     article.innerHTML = `
     <figure class="card__image">
-      <img src=${video.miniatura} alt="mineatura video">
+      <img src=${"."+video.miniatura} alt="mineatura video">
         </figure>
         <h4 class="card__title">${video.titulo}</h4>
         <h4 class="card__name">${video.canal}</h4>
