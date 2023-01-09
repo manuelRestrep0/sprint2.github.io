@@ -1,6 +1,6 @@
 export const videos = [{
   id: 1,
-  miniatura: "/sources/miniatura1.png",
+  miniatura: "../sources/miniatura1.png",
   titulo: "SKYRIM | 5 COSAS QUE NADIE USA (PERO DEBERÍA HACERLO)",
   canal: "El Gerber",
   info: "113,669 views - 25 dic",
@@ -8,7 +8,7 @@ export const videos = [{
   categoria: "juegos" 
 },{
   id: 2,
-  miniatura: "/sources/miniatura2.png",
+  miniatura: "../sources/miniatura2.png",
   titulo: "AMONG US con CHAT de VOZ xd",
   canal: "AQUISI",
   info: "280,879 views - 29 dic",
