@@ -66,4 +66,7 @@ document.addEventListener("click", (event) => {
     sessionStorage.setItem("videoPlayer", JSON.stringify(target.id));
     window.location.href = "./pages/videoPlayer.html";
   }
+  if(target.classList.contains("header__figure") || target.classList.contains("logoTitle")){
+    window.location.href = "../index.html";
+  }
 });

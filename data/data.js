@@ -158,5 +158,85 @@ export const videos = [{
   info: "6,373 hace 2 dias",
   link: "https://www.youtube.com/embed/eJqhmTKbV48",
   categoria: "noticias"
+},{
+  id:21,
+  miniatura: "../sources/miniatura21.png",
+  titulo: "La Noche En Que Michael Jordan Voló",
+  canal: "Farwell Investor",
+  info: "5.4M hace 1 año",
+  link: "https://www.youtube.com/embed/6q2TKSmNpDo",
+  categoria: "documentales"
+},{
+  id:22,
+  miniatura: "../sources/miniatura22.png",
+  titulo: "Las 100 mejores jugadas de la década",
+  canal: "NBA México",
+  info: "547,381 hace 2 años",
+  link: "https://www.youtube.com/embed/8kdTo3tpJMU",
+  categoria: "documentales"
+},{
+  id:23,
+  miniatura: "../sources/miniatura23.png",
+  titulo: "Jugando GTA 5 Sin Romper Ninguna Ley",
+  canal: "Vista Gamer",
+  info: "12M hace 7 meses",
+  link: "https://www.youtube.com/embed/n-sFENXYQZc",
+  categoria: "juegos"
+},{
+  id:24,
+  miniatura: "../sources/miniatura24.png",
+  titulo: "¡Minando 1.000.000 de Bloques!",
+  canal: "MrBeast",
+  info: "17M hace 9 meses",
+  link: "https://www.youtube.com/embed/LDCwYx3kfRc",
+  categoria: "juegos"
+},{
+  id:25,
+  miniatura: "../sources/miniatura25.png",
+  titulo: "¡GOL DE JULIÁN ÁVAREZ Y BAILE CIUDADANO ANTE LOS BLUES! ",
+  canal: "ESPN Fans",
+  info: "1.9M hace 23 Horas",
+  link: "https://www.youtube.com/embed/4RIURWZHsBc",
+  categoria: "noticias"
+},{
+  id:26,
+  miniatura: "../sources/miniatura26.png",
+  titulo: "0% Deportividad en el Fútbol",
+  canal: "JackieMT",
+  info: "16M hace 2 meses",
+  link: "https://www.youtube.com/embed/HwtW7ps6EXg",
+  categoria: "noticias"
+},{
+  id:27,
+  miniatura: "../sources/miniatura27.png",
+  titulo: "Peleas de Fútbol Épicas 2020",
+  canal: "Teo CRi",
+  info: "18M hace 2 años",
+  link: "https://www.youtube.com/embed/f3YRzxTsJ6g",
+  categoria: "noticias"
+},{
+  id:28,
+  miniatura: "../sources/miniatura28.png",
+  titulo: "¡Top 10 PELEAS en la Televisión ARGENTINA!",
+  canal: "WatchMojo Español",
+  info: "5.5M hace 4 años",
+  link: "https://www.youtube.com/embed/Jle70Cw58pU",
+  categoria: "noticias"
+},{
+  id:29,
+  miniatura: "../sources/miniatura29.png",
+  titulo: "Las dos Guerras Mundiales",
+  canal: "Academia Play",
+  info: "2.5M hace 10 meses",
+  link: "https://www.youtube.com/embed/LRF6l0ci-D4",
+  categoria: "documentales"
+},{
+  id:30,
+  miniatura: "../sources/miniatura30.png",
+  titulo: "Así se hizo Nueva York",
+  canal: "Academia Play",
+  info: "1.4M hace 1 año",
+  link: "https://www.youtube.com/embed/4syBcco-XFw",
+  categoria: "documentales"
 }
 ];

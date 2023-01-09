@@ -25,7 +25,6 @@ main {
   display: flex;
   flex-direction: column;
 }
-
 .barra {
   display: flex;
   padding: 20px;
@@ -34,14 +33,31 @@ main {
 .barra h2 {
   margin-right: 70px;
   align-self: center;
+  cursor: pointer;
+}
+.barra h2:hover {
+  color: black;
 }
 .barra input{
   height: 25px;
   align-self: center;
+  background-color: #373737;
+  color: white;
+  width: 400px;
+  border-radius: 44px;
+  border: 0px;
+  text-align: center;
+  margin: 4px 2px;
 }
 .barra button {
   height: 25px;
   align-self: center;
+  background-color: #373737;
+  color: white;
+  width: 60px;
+  border-radius: 44px;
+  border: 0px;
+  cursor: pointer;
 }
 
 #contenedorCards {

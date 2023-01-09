@@ -56,3 +56,10 @@ title.innerHTML = video.titulo;
 const informacion = document.getElementById("player__info");
 informacion.innerHTML = video.info;
 
+document.addEventListener("click", (event) => {
+
+  const { target } = event;
+  if(target.classList.contains("logoImg") || target.classList.contains("logoTitle")){
+    window.location.href = "../index.html";
+  }
+});
